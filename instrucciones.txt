@@ -1,1 +1,3 @@
 Mensaje de prueba para el texto plano.
+
+Esto es patrocinado por: ...
