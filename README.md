@@ -36,3 +36,6 @@ This *word* is in italic format text.
 ### Insert images in README.md file:
 
 ![puppy eating a hamburger](https://i.imgur.com/F7gBQLy.jpeg)
+Now, I can practice the **links** command in Markdown file....
+
+[Ferrari 360 Spyder](https://www.ferrari.com/es-ES/auto/360-spider)
