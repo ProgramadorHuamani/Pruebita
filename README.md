@@ -39,3 +39,8 @@ This *word* is in italic format text.
 Now, I can practice the **links** command in Markdown file....
 
 [Ferrari 360 Spyder](https://www.ferrari.com/es-ES/auto/360-spider)
+
+
+Are you know the blockquotes command in Markdown?
+
+> This is a simple message to practice the use to blockquotes command in Markdown!
